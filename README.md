@@ -1,4 +1,4 @@
-# [Rust](https://www.rust-lang.org/learn)
+# [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 <!-- <a href="https://www.rust-lang.org/learn"><img src="https://user-images.githubusercontent.com/62104686/145560950-08113a15-45ec-481f-a92b-ce3b1b0e2dc6.png" width=150px alt="rust-icon"></a> -->
 
@@ -6,7 +6,7 @@ My journey learning Rust
 
 ## 📚 Index
 - [About me](https://github.com/DvdDuarte/DvdDuarte/blob/main/README.md#about-me)
-- [🛠 Tools i use in this journey](https://github.com/DvdDuarte/Rust/blob/main/README.md#-tools-i-use-in-this-journey)
+- [🛠 Tools i use in this journey](https://github.com/DvdDuarte/C-Sharp/blob/main/README.md#-tools-i-use-in-this-journey)
 - [📖 Day 1]()
 
 
